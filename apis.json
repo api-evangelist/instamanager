@@ -1,0 +1,69 @@
+{
+    "name": "InstaManager",
+    "description": "With over 2 billion bookings globally Kigo is the trusted platform for vacation rental management companies. Designed to maximize revenue and streamline operations, Kigo allows vacation rental managers and owners to spend less time managing more proper...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1076-instamanager.jpg",
+    "tags": [
+        "api not found",
+        "have api",
+        "marketplaces",
+        "rental",
+        "rentals",
+        "vacation rentals",
+        "vacations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/instamanager\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "InstaManager",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1076-instamanager.jpg",
+            "humanURL": "http:\/\/www.instamanager.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/instamanager-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/kigo"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.instamanager.com\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@kigo.net"
+        },
+        {
+            "type": "Email",
+            "url": "contact@kigo.net"
+        },
+        {
+            "type": "Email",
+            "url": "billing@kigo.net"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/instamanager"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/kigoapp"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.instamanager.com\/"
+        }
+    ]
+}
